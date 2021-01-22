@@ -42,7 +42,7 @@
     "@ngrx/store": "10.0.1",
     "@qiwi/semantic-release-gh-pages-plugin": "5.0.2",
     "@semantic-release/changelog": "5.0.1",
-    "@testdozer/ng-cmd-builder": "1.2.1",
+    "@testdozer/ng-cmd-builder": "1.2.2",
     "@types/jasmine": "3.6.2",
     "@types/node": "12.19.4",
     "@typescript-eslint/eslint-plugin": "4.10.0",
